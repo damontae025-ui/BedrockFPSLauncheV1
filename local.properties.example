@@ -1,0 +1,4 @@
+# Optional. Copy to local.properties to bake a CurseForge API key into YOUR OWN build.
+# Never share an APK built with a key in it - anyone can extract the key from the APK.
+# Easier and safer: leave this out and paste the key into the app's CurseForge tab.
+CURSEFORGE_API_KEY=
